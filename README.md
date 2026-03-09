@@ -3,7 +3,7 @@
 Learning SQL as part of my Data Analyst & Data Engineer journey.
 
 ## Status
-⏳ Starting March 10, 2026
+⏳ Starting March 16, 2026
 
 ## Topics to Cover
 - SELECT, WHERE, ORDER BY
